@@ -1,1 +1,3 @@
-![](https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif)
+![My GitHub](https://github-readme-stats.vercel.app/api?username=rejevichb&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=rejevichb&theme=dark&hide=html,php,css&count_private=true&show_icons=true&layout=compact)
